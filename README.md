@@ -80,7 +80,7 @@ The Main Purpose of this GitHub Repository/Project: <br><br>
 3. from the Main Menu, go to: Konquer - Krypt
 4. go to the Shrine
 5. Press **F1** in order to **Activate** the script
-6. *observe the wealth disappearing into the smoke*
+6. *observe the wealth disappearing into the Smoke*
 
 *Press **F3** to **Pause** the script<br>
 **Press **F4** to **Exit/Close** the script<br>

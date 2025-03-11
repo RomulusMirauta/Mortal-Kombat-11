@@ -1,4 +1,4 @@
-F1:: ; pressing F1 will activate the script
+F1:: ; Press F1 key to activate the script
 SetKeyDelay, 0
 i=0 ; creating a simple variable named "i", giving it the value "0"
 
@@ -17,10 +17,10 @@ while (i=0) { ; creating an infinite loop, so the function "WinActive" will be c
 }
 return ; it can solve some big & unexpected AHK script issues
 
-F3::Pause ; Manual Pause script with %key%
+F3::Pause ; Press F3 key to (Manual) Pause the script
 return
 
-F4::ExitApp ; Exit script with %key%
+F4::ExitApp ; Press F4 key to Exit/Close the script
 return
 
 ; *Mortal Kombat 11 has built-in AI => the characters can fight for you

@@ -1,4 +1,11 @@
-# **Mortal Kombat 11 AHK Scripts**
+# **Mortal Kombat 11 - AHK Scripts**
+<br>
+
+<h3>
+The Main Purpose of this GitHub Repository/Project: <br><br>
+
+***Time is the most valuable and important resource - of all.*** <br><br><br>
+</h3>
 
 ## 1. Tutorial_Input
 
@@ -8,14 +15,14 @@
 
 ### **Problem solved:** while going through MK11's Tutorial (advanced parts), I came to the conclusion that the game's engine cannot actually keep with fast-paced input, leading to the impossibility of completing certain Tutorial parts
 
-Before creating these AHK Scripts, I've tried these, which ultimately failed to solve the encountered issue:
+<br>Before creating these AHK Scripts, I've tried these, which ultimately failed to solve the encountered issue:
 - utilized a bunch of gaming keyboards - wired (so the input latency would be way lower), with mechanical and hybrid switches, some even with short-stroke keys (to increase the chance of hitting the combo)
 - simulated a controller - through Steam Link Android app - with different and custom key positions *(https://play.google.com/store/apps/details?id=com.valvesoftware.steamlink)*
 - *last step would have been this, but it did not happen...being stubborn by nature and also being reluctant to buying a physical controller due to reading (a lot of) bad reviews, and discussions that I had with controller owners*
 
 ### Proof that these scripts actually worked, at least for me: https://steamcommunity.com/id/ILimitlessI/stats/976310/?tab=achievements
 
-#### ***Reluctant to clicking on links? Here's a scrollsot as proof:***
+#### ***Reluctant to clicking on links? Here's a scrollsot - as proof:***
 
 <a href="https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/refs/heads/main/Tutorial_Input/MK11_Achievements.png">
   <img align="center"
@@ -23,9 +30,26 @@ Before creating these AHK Scripts, I've tried these, which ultimately failed to 
     alt="MK11_Achievements" />
 </a>
 
+<br>*AHK = AutoHotkey *(free and open-source, custom scripting language, for Microsoft Windows)*<br>
+**TI = Tutorial Input<br>
+***The number after TI indicates the problematic Tutorial Challenge<br><br>
+
 
 ## 2. Farming_Towers
 
+### **Purpose:** to simulate a human-like simple input - continuously pressing the "Enter" key *(only when MK11 window is focused)*
+
+### **Problem solved:** in Mortal Kombat 11, the resources require a lot of grinding => this will help you automatically farm resoures
+
+### How to use:
+1. download and start the script from here: 
+2. start Mortal Kombat 11
+3. from the Main Menu, go to: Towers - choose Infinite Towers/Tower - choose any fighter - choose to be AI-controlled
+4. Press **F1** in order to **Activate** the script
+
+*From time to time, check if you lost the fight<br>
+**Press **F3** to **Pause** the script<br>
+***Press **F4** to **Exit** the script<br><br>
 
 
 ## 3. Shrine_Farmer

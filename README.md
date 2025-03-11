@@ -26,6 +26,14 @@ The Main Purpose of this GitHub Repository/Project: <br><br>
 
 ### **Problem solved:** while going through MK11's Tutorial (advanced parts), I came to the conclusion that the game's engine cannot actually keep with fast-paced input, leading to the impossibility of completing certain Tutorial parts
 
+### How to use:
+1. download this archive and unarchive it [Tutorial_Input_Compiled_Scripts.zip](https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/main/Tutorial_Input/compiled/Tutorial_Input_Compiled_Scripts.zip)
+2. choose the script and start it
+3. start Mortal Kombat 11
+4. from the Main Menu, go to: Learn - Tutorial - choose the desired Tutorial
+5. Press **F1** in order to **Activate** the script
+6. *watch and enjoy*
+
 <br>Before creating these AHK Scripts, I've tried these, which ultimately failed to solve the encountered issue:
 - utilized a bunch of gaming keyboards - wired (so the input latency would be way lower), with mechanical and hybrid switches, some even with short-stroke keys (to increase the chance of hitting the combo)
 - simulated a controller - through Steam Link Android app - with different and custom key positions *(https://play.google.com/store/apps/details?id=com.valvesoftware.steamlink)*
@@ -54,10 +62,11 @@ The Main Purpose of this GitHub Repository/Project: <br><br>
 ### **Problem solved:** in Mortal Kombat 11, the resources require a lot of grinding => this will help you automatically farm resources
 
 ### How to use:
-1. download and start the script from here: 
+1. download and start the script from here: [MK11-FarmingTowers1.exe](https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/main/Farming_Towers/MK11-FarmingTowers1.exe)
 2. start Mortal Kombat 11
-3. from the Main Menu, go to: Towers - choose Infinite Towers/Tower - choose any fighter - choose to be AI-controlled
+3. from the Main Menu, go to: Konquer - Klassic Towers/Towers of Time - choose a Tower (e.g. Endless Tower) - choose any fighter - choose the Fighter to be AI-controlled *(for keyboard: press "A" button)*
 4. Press **F1** in order to **Activate** the script
+5. *watch and enjoy*
 
 *From time to time, check if you lost the fight<br>
 **Press **F3** to **Pause** the script<br>
@@ -74,14 +83,17 @@ The Main Purpose of this GitHub Repository/Project: <br><br>
 ### **Problem solved:** in Mortal Kombat 11, the resources require a lot of grinding => this will help you (automatically) farm resources
 
 ### How to use:
-1. download and start the script from here: 
+1. download and start the script from here: [MK11-ShrineFarmer1.exe](https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/main/Shrine_Farmer/MK11-ShrineFarmer1.exe)
 2. start Mortal Kombat 11
-3. from the Main Menu, go to: Shrine
-4. Press **F1** in order to **Activate** the script
+3. from the Main Menu, go to: Konquer - Krypt
+4. go to the Shrine
+5. Press **F1** in order to **Activate** the script
+6. *observe the wealth disappearing into the Smoke*
 
 *Press **F3** to **Pause** the script<br>
 **Press **F4** to **Exit/Close** the script<br>
-***Press **F5** to **Reload** the script *(to be used in case of script becoming unresponsive - it can happen after Pausing the script)*<br><br>
+***Press **F5** to **Reload** the script *(to be used in case of script becoming unresponsive - it can happen after Pausing the script)*<br>
+  After Reloading the Script, you will need to Activate it again by pressing F1<br><br>
 
 <hr>
 

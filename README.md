@@ -63,6 +63,7 @@ The Main Purpose of this GitHub Repository/Project: <br><br>
 **Press **F3** to **Pause** the script<br>
 ***Press **F4** to **Exit/Close** the script<br><br>
 
+<hr>
 
 ## 3. Shrine_Farmer
 

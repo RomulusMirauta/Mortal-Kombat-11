@@ -54,10 +54,11 @@ The Main Purpose of this GitHub Repository/Project: <br><br>
 ### **Problem solved:** in Mortal Kombat 11, the resources require a lot of grinding => this will help you automatically farm resources
 
 ### How to use:
-1. download and start the script from here: 
-2. start Mortal Kombat 11
-3. from the Main Menu, go to: Towers - choose Infinite Towers/Tower - choose any fighter - choose to be AI-controlled
-4. Press **F1** in order to **Activate** the script
+1. download and start the script from here: [MK11-FarmingTowers1.exe](https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/main/Farming_Towers/MK11-FarmingTowers1.exe)
+3. start Mortal Kombat 11
+4. from the Main Menu, go to: Konquer - Klassic Towers/Towers of Time - choose a Tower (e.g. Endless Tower) - choose any fighter - choose the Fighter to be AI-controlled *(press "A" button on keyboard)*
+5. Press **F1** in order to **Activate** the script
+6. *watch and enjoy*
 
 *From time to time, check if you lost the fight<br>
 **Press **F3** to **Pause** the script<br>
@@ -74,14 +75,17 @@ The Main Purpose of this GitHub Repository/Project: <br><br>
 ### **Problem solved:** in Mortal Kombat 11, the resources require a lot of grinding => this will help you (automatically) farm resources
 
 ### How to use:
-1. download and start the script from here: 
+1. download and start the script from here: [MK11-ShrineFarmer1.exe](https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/main/Shrine_Farmer/MK11-ShrineFarmer1.exe)
 2. start Mortal Kombat 11
-3. from the Main Menu, go to: Shrine
-4. Press **F1** in order to **Activate** the script
+3. from the Main Menu, go to: Konquer - Krypt
+4. go to the Shrine
+5. Press **F1** in order to **Activate** the script
+6. *observe the wealth disappearing into the smoke*
 
 *Press **F3** to **Pause** the script<br>
 **Press **F4** to **Exit/Close** the script<br>
-***Press **F5** to **Reload** the script *(to be used in case of script becoming unresponsive - it can happen after Pausing the script)*<br><br>
+***Press **F5** to **Reload** the script *(to be used in case of script becoming unresponsive - it can happen after Pausing the script)*<br>
+  After Reloading the Script, you will need to Activate it again by pressing F1<br><br>
 
 <hr>
 

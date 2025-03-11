@@ -61,7 +61,7 @@ The Main Purpose of this GitHub Repository/Project: <br><br>
 
 *From time to time, check if you lost the fight<br>
 **Press **F3** to **Pause** the script<br>
-***Press **F4** to **Exit/Close** the script<br><br>
+***Press **F4** to **Exit/Close** the script<br>
 
 <hr>
 

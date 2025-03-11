@@ -7,6 +7,17 @@ The Main Purpose of this GitHub Repository/Project: <br><br>
 ***Time is the most valuable and important resource - of all.*** <br><br><br>
 </h3>
 
+
+## Table of Contents
+1. [**Tutorial_Input**](https://github.com/RomulusMirauta/Mortal-Kombat-11?tab=readme-ov-file#1-tutorial_input)
+2. [**Farming_Towers**](https://github.com/RomulusMirauta/Mortal-Kombat-11?tab=readme-ov-file#2-farming_towers)
+3. [**Shrine_Farmer**](https://github.com/RomulusMirauta/Mortal-Kombat-11?tab=readme-ov-file#3-shrine_farmer)
+4. [**Tools**](https://github.com/RomulusMirauta/Mortal-Kombat-11?tab=readme-ov-file#3-shrine_farmer)
+
+
+<br>
+
+
 ## 1. Tutorial_Input
 
 *STEAM Link: https://store.steampowered.com/app/976310/Mortal_Kombat_11/*
@@ -40,7 +51,7 @@ The Main Purpose of this GitHub Repository/Project: <br><br>
 
 ### **Purpose:** to simulate a human-like simple input - continuously pressing the "Enter" key *(only when MK11 window is focused)*
 
-### **Problem solved:** in Mortal Kombat 11, the resources require a lot of grinding => this will help you automatically farm resoures
+### **Problem solved:** in Mortal Kombat 11, the resources require a lot of grinding => this will help you automatically farm resources
 
 ### How to use:
 1. download and start the script from here: 
@@ -50,17 +61,32 @@ The Main Purpose of this GitHub Repository/Project: <br><br>
 
 *From time to time, check if you lost the fight<br>
 **Press **F3** to **Pause** the script<br>
-***Press **F4** to **Exit** the script<br><br>
+***Press **F4** to **Exit/Close** the script<br><br>
 
 
 ## 3. Shrine_Farmer
 
+### MK11 - Guide to Shrine Rewards in the Krypt *(not mine)* <br> https://www.youtube.com/watch?v=ubQo1a_EKz4
 
+### **Purpose:** to simulate a human-like simple input - continuously pressing the "Enter" key *(only when MK11 window is focused)*
 
+### **Problem solved:** in Mortal Kombat 11, the resources require a lot of grinding => this will help you (automatically) farm resources
 
-<hr> 
+### How to use:
+1. download and start the script from here: 
+2. start Mortal Kombat 11
+3. from the Main Menu, go to: Shrine
+4. Press **F1** in order to **Activate** the script
 
-Tools that I've used:
+*Press **F3** to **Pause** the script<br>
+**Press **F4** to **Exit/Close** the script<br>
+***Press **F5** to **Reload** the script *(to be used in case of script becoming unresponsive - it can happen after Pausing the script)*<br><br>
+
+<hr>
+
+## 4. Tools
+
+Tools that I've used in order to create the scripts:
 - Notepad++ https://notepad-plus-plus.org/downloads/
 - Visual Studio Code https://code.visualstudio.com/
 - AutoHotkey https://www.autohotkey.com/

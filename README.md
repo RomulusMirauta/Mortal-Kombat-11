@@ -28,11 +28,16 @@ The Main Purpose of this GitHub Repository/Project: <br><br>
 
 ### How to use:
 1. download this archive and unarchive it [Tutorial_Input_Compiled_Scripts.zip](https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/main/Tutorial_Input/compiled/Tutorial_Input_Compiled_Scripts.zip)
-2. choose the script and start it
-3. start Mortal Kombat 11
-4. from the Main Menu, go to: Learn - Tutorial - choose the desired Tutorial
-5. Press **F1** in order to **Activate** the script
-6. *watch and enjoy*
+2. start Mortal Kombat 11
+3. from the Main Menu, go to: Learn - Tutorial - choose the desired Tutorial
+4. go to Desktop, choose the script and start it
+5. go back to MK11's window and **wait** *(the script will Activate automatically)*
+6. after completing each problematic challenge, Exit/Close the script
+
+*TI = Tutorial Input<br>
+**The number after "TI" indicates the problematic Tutorial Challenge<br>
+***Press **F3** to **Pause** the script<br>
+****Press **F4** to **Exit/Close** the script<br>
 
 <br>Before creating these AHK Scripts, I've tried these, which ultimately failed to solve the encountered issue:
 - utilized a bunch of gaming keyboards - wired (so the input latency would be way lower), with mechanical and hybrid switches, some even with short-stroke keys (to increase the chance of hitting the combo)
@@ -49,9 +54,9 @@ The Main Purpose of this GitHub Repository/Project: <br><br>
     alt="MK11_Achievements" />
 </a>
 
-<br>*AHK = AutoHotkey *(free and open-source, custom scripting language, for Microsoft Windows)*<br>
-**TI = Tutorial Input<br>
-***The number after TI indicates the problematic Tutorial Challenge<br><be>
+<br>Additional info:
+- MK11 = Mortal Kombat 11
+- AHK = AutoHotkey *(free and open-source, custom scripting language, for Microsoft Windows)*
 
 <hr>
 
@@ -93,7 +98,7 @@ The Main Purpose of this GitHub Repository/Project: <br><br>
 *Press **F3** to **Pause** the script<br>
 **Press **F4** to **Exit/Close** the script<br>
 ***Press **F5** to **Reload** the script *(to be used in case of script becoming unresponsive - it can happen after Pausing the script)*<br>
-  After Reloading the Script, you will need to Activate it again by pressing F1<br><br>
+  After Reloading the Script, you will need to Activate it again by pressing F1<br>
 
 <hr>
 

@@ -32,8 +32,9 @@ The Main Purpose of this GitHub Repository/Project: <br><br>
 
 <br>*AHK = AutoHotkey *(free and open-source, custom scripting language, for Microsoft Windows)*<br>
 **TI = Tutorial Input<br>
-***The number after TI indicates the problematic Tutorial Challenge<br><br>
+***The number after TI indicates the problematic Tutorial Challenge<br><be>
 
+<hr>
 
 ## 2. Farming_Towers
 
@@ -53,3 +54,18 @@ The Main Purpose of this GitHub Repository/Project: <br><br>
 
 
 ## 3. Shrine_Farmer
+
+
+
+
+<hr> 
+
+Tools that I've used:
+- Notepad++ https://notepad-plus-plus.org/downloads/
+- Visual Studio Code https://code.visualstudio.com/
+- AutoHotkey https://www.autohotkey.com/
+
+<br>Visual Studio Code extensions:
+- *(deprecated)* AutoHotkey https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-autohotkey
+- *(deprecated)* AutoHotkey Plus (AHK V1) https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-autohotkey-plus
+- *(new)* AHK++ (AutoHotkey Plus Plus) https://marketplace.visualstudio.com/items?itemName=mark-wiemer.vscode-autohotkey-plus-plus

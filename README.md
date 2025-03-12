@@ -126,13 +126,19 @@ Steam Achievements impacted by Kompletion of Shrine-grinding:
 2. start Mortal Kombat 11
 3. from the Main Menu, go to: Konquer - Krypt
 4. go to the Shrine
-5. Press **F1** in order to **Activate** the script
-6. *observe the wealth disappearing into the Smoke*
+5. activate the script
+   - Press **F1** in order to initiate the spending of **1.000** Koins *(minimum amount)* - mostly for farming: 1x kombat kard
+   - Press **F2** in order to initiate the spending of **10.000** Koins - mostly for farming: 2x kombat kards
+   - Press **F3** in order to initiate the spending of **15.000** Koins - mostly for farming: 1x augment & 1x *%random item%*
+   - Press **F4** in order to initiate the spending of **75.000** Koins - mostly for farming: 2x gears (or 2x augments - very rare occurrence)
+   - Press **F5** in order to initiate the spending of **100.000** Koins *(maximum amount)* - mostly for farming: 1x skin
+7. *observe the wealth disappearing into the Smoke*
 
-*Press **F3** to **Pause** the script<br>
-**Press **F4** to **Exit/Close** the script<br>
-***Press **F5** to **Reload** the script *(to be used in case of script becoming unresponsive - it can happen after Pausing the script)*<br>
-  After Reloading the Script, you will need to Activate it again by pressing F1<br>
+*Press **F7** to **Pause** the script<br>
+**Press **F8** to **Reload** the script *(to be used in case of script becoming unresponsive - it can happen after Pausing the script)*<br>
+  After Reloading the Script, you will need to activate it again by pressing F1-F5 keys<br>
+***Press **F9** to **Exit/Close** the script<br>
+
 
 <hr>
 

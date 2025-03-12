@@ -30,7 +30,7 @@ The Main Purpose of this GitHub Repository/Project: <br><br>
 1. download this archive and unarchive it [Tutorial_Input_Compiled_Scripts.zip](https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/main/Tutorial_Input/compiled/Tutorial_Input_Compiled_Scripts.zip)
 2. start Mortal Kombat 11
 3. from the Main Menu, go to: Learn - Tutorial - choose the desired Tutorial
-4. go to Desktop, choose the script and start it
+4. open the folder containing the scripts, choose the script and start it
 5. go back to MK11's window and **wait** *(the script will Activate automatically)*
 6. after completing each problematic challenge, Exit/Close the script
 

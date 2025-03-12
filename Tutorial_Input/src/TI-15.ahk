@@ -1,8 +1,9 @@
 i=0
-;^+F1:: ; TRIGGER: CTRL + SHIFT + F1
 
-while(i=0)
-{
+F1:: ; TRIGGER: F1
+
+; while(i=0)
+; {
 	if WinActive("Mortal Kombat 11") ; to occurr just when MK11 window is focused, else to do nothing
 	{
 
@@ -93,10 +94,10 @@ while(i=0)
 	else
 	{
 	}
-}
+; }
 return
 
-^+F3::Pause    ; Manual Pause script with %key%
-; ^+F3::Suspend
-^+F4::ExitApp  ; Exit script with %key%
-
+F3::Pause		; Manual Pause script with F3
+; ^+F3::Suspend 	; Suspend script with CTRL + SHIFT + F3
+F4::ExitApp  	; Exit script with F4
+; F5::Reload	; Reload script with F5

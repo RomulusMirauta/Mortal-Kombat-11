@@ -1,5 +1,5 @@
-i=0
-F1:: ; TRIGGER: CTRL + SHIFT + F1
+; i=0
+F1:: ; TRIGGER: F1
 
 ; while(i=0)
 ; {
@@ -299,4 +299,3 @@ return
 ^+F3::Pause    ; Manual Pause script with %key%
 ; ^+F3::Suspend
 ^+F4::ExitApp  ; Exit script with %key%
-

@@ -32,7 +32,7 @@ while (i=0) {
 	}
 
 	else {
-		
+		Sleep, 300000
 	}
 }
 

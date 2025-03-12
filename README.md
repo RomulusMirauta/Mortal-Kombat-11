@@ -55,6 +55,15 @@ The Main Purpose of this GitHub Repository/Project: <br><br>
 </a>
 
 <br><br>
+**These scripts will ultimately help you add Mortal Kombat 11 to your Steam's "Perfect Games" list, by collecting all of the achievements (100%, 58 out of 58).**
+<br><br>
+
+Steam Achievements impacted by Kompletion of Tutorial Challenges:
+- Hit The Dojo (Komplete all Basics Tutorials)
+- Ready To Kompete (Komplete all Advanced Tutorials)
+- No Bad Match Ups (Komplete all Strategy Tutorials)
+
+<br>
 
 <a href="https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/refs/heads/main/Tutorial_Input/MK11_IN-G.jpg">
   <img align="center"

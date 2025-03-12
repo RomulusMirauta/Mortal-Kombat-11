@@ -31,11 +31,11 @@ The Main Purpose of this GitHub Repository/Project: <br><br>
 2. start Mortal Kombat 11
 3. from the Main Menu, go to: Learn - Tutorial - choose the desired Tutorial
 4. open the folder containing the scripts, choose the script and start it
-5. go back to MK11's window and **wait** *(the script will* ***Activate*** *automatically)*
+5. go back to MK11's window and **wait** *(the script will* ***Activate*** *automatically)* **OR** press **F1** in order to trigger the script **once** *(exercise the timing)*
 6. after completing each problematic challenge, Exit/Close the script
 
 *TI = Tutorial Input<br>
-**The number after "TI" indicates the problematic Tutorial Challenge<br>
+**The number after "TI" indicates the problematic Tutorial Challenge - the first script (MK11-Tutorial_Input-01.exe) is for the following ~impossible Tutorial Challenge: Frame Data - Punishing - challenge no.4 *(the scripts that follow after are for the next ~impossible challenges, in ascending order)*<br>
 ***Press **F3** to **Pause** the script<br>
 ****Press **F4** to **Exit/Close** the script<br>
 

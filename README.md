@@ -46,12 +46,20 @@ The Main Purpose of this GitHub Repository/Project: <br><br>
 
 ### Proof that these scripts actually worked, at least for me: https://steamcommunity.com/id/ILimitlessI/stats/976310/?tab=achievements
 
-#### ***Reluctant to clicking on links? Here's a scrollsot - as proof:***
+#### ***Reluctant to clicking on links? Here's a scrollshot - as proof:***
 
 <a href="https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/refs/heads/main/Tutorial_Input/MK11_Achievements.png">
   <img align="center"
     src="https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/refs/heads/main/Tutorial_Input/MK11_Achievements.png"
     alt="MK11_Achievements" />
+</a>
+
+<br><br>
+
+<a href="https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/refs/heads/main/Tutorial_Input/MK11_IN-G.jpg">
+  <img align="center"
+    src="https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/refs/heads/main/Tutorial_Input/MK11_IN-G.jpg"
+    alt="MK11_IN-G" />
 </a>
 
 <br>Additional info:

@@ -83,8 +83,7 @@ Steam Achievements impacted by Kompletion of Tutorial Challenges:
 
 ### **Problem solved:** in Mortal Kombat 11, the resources require a lot of grinding => this will help you automatically farm resources
 
-<br>
-**These scripts will help you grind the ***Tower-related*** achievements, ultimately adding Mortal Kombat 11 to your Steam's "Perfect Games" list, by collecting all of the achievements** ***(100%, 58 out of 58).***
+<br>**This script will help you grind the ***Tower-related*** achievements, ultimately adding Mortal Kombat 11 to your Steam's "Perfect Games" list, by collecting all of the achievements** ***(100%, 58 out of 58).***
 <br><br>
 
 Steam Achievements impacted by Kompletion of Tower-grinding:
@@ -113,6 +112,14 @@ Steam Achievements impacted by Kompletion of Tower-grinding:
 ### **Purpose:** to simulate a human-like input - in order to continuously spend Koins *(key sequence triggers only when MK11 window is focused)*
 
 ### **Problem solved:** the spending process takes quite a while => this will help you (automatically) spend Koins
+
+<br>**This script will help you grind the ***Shrine-related*** and other achievements, ultimately adding Mortal Kombat 11 to your Steam's "Perfect Games" list, by collecting all of the achievements** ***(100%, 58 out of 58).***
+<br><br>
+
+Steam Achievements impacted by Kompletion of Shrine-grinding:
+- Gimme Dat Money (Spend 50,000 koins in the Naknadan shrine)
+- More Power (Use 50 Konsumables)
+- Konsumed (Use 100 consumables)
 
 ### How to use:
 1. download and start the script from here: [MK11-ShrineFarmer1.exe](https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/main/Shrine_Farmer/MK11-ShrineFarmer1.exe)

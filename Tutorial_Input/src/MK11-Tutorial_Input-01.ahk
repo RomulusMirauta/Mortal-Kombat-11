@@ -1,11 +1,12 @@
 i=0
-^+F1:: ; TRIGGER: CTRL + SHIFT + F1
 
-while(i=0)
+; ^+F1:: ; TRIGGER: CTRL + SHIFT + F1
 
-{
-	if WinActive("Mortal Kombat 11") ; to occurr just when MK11 window is focused, else to do nothing
-	{
+; the ~impossible Tutorial Challenges begin here: 
+
+while (i=0) {
+
+	if WinActive("Mortal Kombat 11") { ; to occurr just when MK11 window is focused, else to do nothing
 		Send {O down}
 		Sleep, 750
 		Send {O up}
@@ -30,9 +31,8 @@ while(i=0)
 		Sleep, 150
 	}
 
-	else
-	{
-	
+	else {
+		
 	}
 }
 
@@ -41,14 +41,3 @@ return
 ^+F3::Pause    ; Manual Pause script with %key%
 ; ^+F3::Suspend
 ^+F4::ExitApp  ; Exit script with %key%
-
-
-
-
-;RESULTS
-
-;Expected: 
-
-;Actual: 
-
-;

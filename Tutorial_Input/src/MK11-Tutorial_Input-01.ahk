@@ -2,6 +2,8 @@
 
 F1:: ; TRIGGER: F1
 
+; SetKeyDelay, 0
+
 ; the ~impossible Tutorial Challenges begin here: Frame Data - Punishing - challenge no.4
 
 ; while (i=0) {

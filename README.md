@@ -12,7 +12,7 @@ The Main Purpose of this GitHub Repository/Project: <br><br>
 1. [**Tutorial_Input**](https://github.com/RomulusMirauta/Mortal-Kombat-11?tab=readme-ov-file#1-tutorial_input)
 2. [**Farming_Towers**](https://github.com/RomulusMirauta/Mortal-Kombat-11?tab=readme-ov-file#2-farming_towers)
 3. [**Shrine_Farmer**](https://github.com/RomulusMirauta/Mortal-Kombat-11?tab=readme-ov-file#3-shrine_farmer)
-4. [**Tools**](https://github.com/RomulusMirauta/Mortal-Kombat-11?tab=readme-ov-file#3-shrine_farmer)
+4. [**Tools**](https://github.com/RomulusMirauta/Mortal-Kombat-11?tab=readme-ov-file#4-tools)
 
 
 <br>

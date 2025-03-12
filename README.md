@@ -55,6 +55,15 @@ The Main Purpose of this GitHub Repository/Project: <br><br>
 </a>
 
 <br><br>
+**These scripts will help you grind the ***Tutorial-related*** achievements, ultimately adding Mortal Kombat 11 to your Steam's "Perfect Games" list, by collecting all of the achievements** ***(100%, 58 out of 58).***
+<br><br>
+
+Steam Achievements impacted by Kompletion of Tutorial Challenges:
+- Hit The Dojo (Komplete all Basics Tutorials)
+- Ready To Kompete (Komplete all Advanced Tutorials)
+- No Bad Match Ups (Komplete all Strategy Tutorials)
+
+<br>
 
 <a href="https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/refs/heads/main/Tutorial_Input/MK11_IN-G.jpg">
   <img align="center"
@@ -74,6 +83,15 @@ The Main Purpose of this GitHub Repository/Project: <br><br>
 
 ### **Problem solved:** in Mortal Kombat 11, the resources require a lot of grinding => this will help you automatically farm resources
 
+<br>**This script will help you grind the ***Tower-related*** achievements, ultimately adding Mortal Kombat 11 to your Steam's "Perfect Games" list, by collecting all of the achievements** ***(100%, 58 out of 58).***
+<br><br>
+
+Steam Achievements impacted by Kompletion of Tower-grinding:
+- Klassic (Komplete a Novice, Warrior, or Champion Klassic Tower once)
+- I Want It All (Komplete the Novice, Warrior, or Champion Klassic Towers with 10 different characters)
+- Tower Champion (Komplete 125 Towers)
+- Master of Time (Komplete 250 Towers)
+
 ### How to use:
 1. download and start the script from here: [MK11-FarmingTowers1.exe](https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/main/Farming_Towers/MK11-FarmingTowers1.exe)
 2. start Mortal Kombat 11
@@ -91,9 +109,17 @@ The Main Purpose of this GitHub Repository/Project: <br><br>
 
 ### MK11 - Guide to Shrine Rewards in the Krypt *(not mine)* <br> https://www.youtube.com/watch?v=ubQo1a_EKz4
 
-### **Purpose:** to simulate a human-like simple input - continuously pressing the "Enter" key *(only when MK11 window is focused)*
+### **Purpose:** to simulate a human-like input - in order to continuously spend Koins *(key sequence triggers only when MK11 window is focused)*
 
-### **Problem solved:** in Mortal Kombat 11, the resources require a lot of grinding => this will help you (automatically) farm resources
+### **Problem solved:** the spending process takes quite a while => this will help you (automatically) spend Koins
+
+<br>**This script will help you grind the ***Shrine-related*** and other achievements, ultimately adding Mortal Kombat 11 to your Steam's "Perfect Games" list, by collecting all of the achievements** ***(100%, 58 out of 58).***
+<br><br>
+
+Steam Achievements impacted by Kompletion of Shrine-grinding:
+- Gimme Dat Money (Spend 50,000 koins in the Naknadan shrine)
+- More Power (Use 50 Konsumables)
+- Konsumed (Use 100 consumables)
 
 ### How to use:
 1. download and start the script from here: [MK11-ShrineFarmer1.exe](https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/main/Shrine_Farmer/MK11-ShrineFarmer1.exe)

@@ -91,9 +91,9 @@ The Main Purpose of this GitHub Repository/Project: <br><br>
 
 ### MK11 - Guide to Shrine Rewards in the Krypt *(not mine)* <br> https://www.youtube.com/watch?v=ubQo1a_EKz4
 
-### **Purpose:** to simulate a human-like simple input - continuously pressing the "Enter" key *(only when MK11 window is focused)*
+### **Purpose:** to simulate a human-like simple input - continuously spending Koins *(key sequence triggers only when MK11 window is focused)*
 
-### **Problem solved:** in Mortal Kombat 11, the resources require a lot of grinding => this will help you (automatically) farm resources
+### **Problem solved:** the (Koins) spending process takes quite a while => this will help you (automatically) spend Koins
 
 ### How to use:
 1. download and start the script from here: [MK11-ShrineFarmer1.exe](https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/main/Shrine_Farmer/MK11-ShrineFarmer1.exe)

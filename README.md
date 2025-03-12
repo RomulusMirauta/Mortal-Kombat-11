@@ -55,7 +55,7 @@ The Main Purpose of this GitHub Repository/Project: <br><br>
 </a>
 
 <br><br>
-**These scripts will ultimately help you add Mortal Kombat 11 to your Steam's "Perfect Games" list, by collecting all of the achievements (100%, 58 out of 58).**
+**These scripts will help you grind the ***Tutorial-related*** achievements, ultimately adding Mortal Kombat 11 to your Steam's "Perfect Games" list, by collecting all of the achievements** ***(100%, 58 out of 58).***
 <br><br>
 
 Steam Achievements impacted by Kompletion of Tutorial Challenges:
@@ -82,6 +82,16 @@ Steam Achievements impacted by Kompletion of Tutorial Challenges:
 ### **Purpose:** to simulate a human-like simple input - continuously pressing the "Enter" key *(only when MK11 window is focused)*
 
 ### **Problem solved:** in Mortal Kombat 11, the resources require a lot of grinding => this will help you automatically farm resources
+
+<br>
+**These scripts will help you grind the ***Tower-related*** achievements, ultimately adding Mortal Kombat 11 to your Steam's "Perfect Games" list, by collecting all of the achievements** ***(100%, 58 out of 58).***
+<br><br>
+
+Steam Achievements impacted by Kompletion of Tower-grinding:
+- Klassic (Komplete a Novice, Warrior, or Champion Klassic Tower once)
+- I Want It All (Komplete the Novice, Warrior, or Champion Klassic Towers with 10 different characters)
+- Tower Champion (Komplete 125 Towers)
+- Master of Time (Komplete 250 Towers)
 
 ### How to use:
 1. download and start the script from here: [MK11-FarmingTowers1.exe](https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/main/Farming_Towers/MK11-FarmingTowers1.exe)

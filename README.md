@@ -9,11 +9,11 @@ The Main Purpose of this GitHub Repository/Project: <br><br>
 
 
 ## Table of Contents
-1. [**Tutorial_Input _(scripts)_**](https://github.com/RomulusMirauta/Mortal-Kombat-11?tab=readme-ov-file#1-tutorial_input)
-2. [**Farming_Towers _(scripts)_**](https://github.com/RomulusMirauta/Mortal-Kombat-11?tab=readme-ov-file#2-farming_towers)
-3. [**Shrine_Farming _(scripts)_**](https://github.com/RomulusMirauta/Mortal-Kombat-11?tab=readme-ov-file#3-shrine_farmer)
-4. [**Utilized Tools**](https://github.com/RomulusMirauta/Mortal-Kombat-11?tab=readme-ov-file#4-tools)
-5. [**Farming_Koins _(how-to)_**](https://github.com/RomulusMirauta/Mortal-Kombat-11?tab=readme-ov-file#5-Farming-Koins)
+1. [**Tutorial_Input _(scripts)_**](https://github.com/RomulusMirauta/Mortal-Kombat-11?tab=readme-ov-file#1-tutorial_input-scripts)
+2. [**Farming_Towers _(scripts)_**](https://github.com/RomulusMirauta/Mortal-Kombat-11?tab=readme-ov-file#2-farming_towers-scripts)
+3. [**Shrine_Farming _(scripts)_**](https://github.com/RomulusMirauta/Mortal-Kombat-11?tab=readme-ov-file#3-shrine_farming-scripts)
+4. [**Utilized Tools**](https://github.com/RomulusMirauta/Mortal-Kombat-11?tab=readme-ov-file#4-utilized-tools)
+5. [**Farming_Koins _(how-to)_**](https://github.com/RomulusMirauta/Mortal-Kombat-11?tab=readme-ov-file#5-Farming_Koins-(how-to))
 
 
 <br>

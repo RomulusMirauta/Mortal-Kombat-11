@@ -13,7 +13,7 @@ The Main Purpose of this GitHub Repository/Project: <br><br>
 2. [**Farming_Towers _(scripts)_**](https://github.com/RomulusMirauta/Mortal-Kombat-11?tab=readme-ov-file#2-farming_towers-scripts)
 3. [**Shrine_Farming _(scripts)_**](https://github.com/RomulusMirauta/Mortal-Kombat-11?tab=readme-ov-file#3-shrine_farming-scripts)
 4. [**Utilized Tools**](https://github.com/RomulusMirauta/Mortal-Kombat-11?tab=readme-ov-file#4-utilized-tools)
-5. [**Farming_Koins _(how-to)_**](https://github.com/RomulusMirauta/Mortal-Kombat-11?tab=readme-ov-file#5-Farming_Koins-(how-to))
+5. [**Farming_Koins _(how-to)_**](https://github.com/RomulusMirauta/Mortal-Kombat-11?tab=readme-ov-file#5-Farming_Koins-how-to)
 
 
 <br>
@@ -94,7 +94,7 @@ Steam Achievements impacted by Kompletion of Tower-grinding:
 - Master of Time (Komplete 250 Towers)
 
 ### How to use:
-1. download and start the script from here: [MK11-FarmingTowers1.exe](https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/main/Farming_Towers/MK11-FarmingTowers1.exe)
+1. download and start the script from here: [MK11-Farming_Towers_Final.exe](https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/main/Farming_Towers/MK11-Farming_Towers_Final.exe)
 2. start Mortal Kombat 11
 3. from the Main Menu, go to: Konquer - Klassic Towers/Towers of Time - choose a Tower (e.g. Endless Tower) - choose any fighter - choose the Fighter to be AI-controlled *(for keyboard: press "A" button)*
 4. Press **F1** in order to **Activate** the script
@@ -123,7 +123,7 @@ Steam Achievements impacted by Kompletion of Shrine-grinding:
 - Konsumed (Use 100 consumables)
 
 ### How to use:
-1. download and start the script from here: [MK11-ShrineFarmer1.exe](https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/main/Shrine_Farmer/MK11-ShrineFarmer1.exe)
+1. download and start the script from here: [MK11-Shrine_Farming_Final.exe](https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/main/Shrine_Farming/MK11-Shrine_Farming_Final.exe)
 2. start Mortal Kombat 11
 3. from the Main Menu, go to: Konquer - Krypt
 4. go to the Shrine
@@ -160,7 +160,7 @@ Tools that I've used in order to create the scripts:
 
 ### INFO: "MK11 - How to get 250 000 koins in 30 seconds, best and quickest farming method" *(not mine)* <br> https://youtu.be/vuBfsdKuagE?si=vqExxf53d78cMwPM&t=103
 
-<br>Instructions:
+### Instructions:
 1. farm until you get good Character Augments *(play Towers of Time/loot chests in The Krypt/use the Shrine)*
 2. from the Main Menu, go to: Kustomize - Characters
 3. choose your favorite MK11 character
@@ -176,7 +176,7 @@ Tools that I've used in order to create the scripts:
 
 <br>
 
-My Koin-farming setup:
+### My Koin-farming setup:
 
 <a href="https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/refs/heads/main/Farming_Koins/MK11-Farming_Koins_Setup.png">
   <img align="center"
@@ -186,10 +186,10 @@ My Koin-farming setup:
 
 <br><br>
 
-Proof that it actually works:
+### Proof that it actually works:
 
 <a href="https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/refs/heads/main/Farming_Koins/MK11-Farming_Koins_Proof_Cropped.png">
-  <img align="center"
+  <img align="left"
     src="https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/refs/heads/main/Farming_Koins/MK11-Farming_Koins_Proof_Cropped.png"
     alt="Farming_Koins_Proof" />
 </a>

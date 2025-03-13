@@ -171,7 +171,7 @@ Tools that I've used in order to create the scripts:
    - Perfect Kombat
    - Heart and Soul
    - Dark Magic
-5. now, follow the instructions from [**Farming_Towers**](https://github.com/RomulusMirauta/Mortal-Kombat-11/edit/main/README.md#how-to-use-1)
+5. now, follow the instructions from [**Farming_Towers**](https://github.com/RomulusMirauta/Mortal-Kombat-11/tree/main?tab=readme-ov-file#how-to-use-1)
 6. if you get a Flawless Victory and you/the AI perform(s) a Fatality, you will get ~**250.000 Koins**
 
 <br>

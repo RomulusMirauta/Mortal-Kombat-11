@@ -9,16 +9,17 @@ The Main Purpose of this GitHub Repository/Project: <br><br>
 
 
 ## Table of Contents
-1. [**Tutorial_Input**](https://github.com/RomulusMirauta/Mortal-Kombat-11?tab=readme-ov-file#1-tutorial_input)
-2. [**Farming_Towers**](https://github.com/RomulusMirauta/Mortal-Kombat-11?tab=readme-ov-file#2-farming_towers)
-3. [**Shrine_Farmer**](https://github.com/RomulusMirauta/Mortal-Kombat-11?tab=readme-ov-file#3-shrine_farmer)
-4. [**Tools**](https://github.com/RomulusMirauta/Mortal-Kombat-11?tab=readme-ov-file#4-tools)
+1. [**Tutorial_Input _(scripts)_**](https://github.com/RomulusMirauta/Mortal-Kombat-11?tab=readme-ov-file#1-tutorial_input)
+2. [**Farming_Towers _(scripts)_**](https://github.com/RomulusMirauta/Mortal-Kombat-11?tab=readme-ov-file#2-farming_towers)
+3. [**Shrine_Farming _(scripts)_**](https://github.com/RomulusMirauta/Mortal-Kombat-11?tab=readme-ov-file#3-shrine_farmer)
+4. [**Utilized Tools**](https://github.com/RomulusMirauta/Mortal-Kombat-11?tab=readme-ov-file#4-tools)
+5. [**Farming Koins _(how-to)_**](https://github.com/RomulusMirauta/Mortal-Kombat-11?tab=readme-ov-file#5-Farming-Koins)
 
 
 <br>
 
 
-## 1. Tutorial_Input
+## 1. Tutorial_Input scripts
 
 *STEAM Link: https://store.steampowered.com/app/976310/Mortal_Kombat_11/*
 
@@ -77,7 +78,7 @@ Steam Achievements impacted by Kompletion of Tutorial Challenges:
 
 <hr>
 
-## 2. Farming_Towers
+## 2. Farming_Towers scripts
 
 ### **Purpose:** to simulate a human-like simple input - continuously pressing the "Enter" key *(only when MK11 window is focused)*
 
@@ -105,9 +106,9 @@ Steam Achievements impacted by Kompletion of Tower-grinding:
 
 <hr>
 
-## 3. Shrine_Farmer
+## 3. Shrine_Farming scripts
 
-### MK11 - Guide to Shrine Rewards in the Krypt *(not mine)* <br> https://www.youtube.com/watch?v=ubQo1a_EKz4
+### INFO: "MK11 - Guide to Shrine Rewards in the Krypt" *(not mine)* <br> https://www.youtube.com/watch?v=ubQo1a_EKz4
 
 ### **Purpose:** to simulate a human-like input - in order to continuously spend Koins *(key sequence triggers only when MK11 window is focused)*
 
@@ -139,10 +140,9 @@ Steam Achievements impacted by Kompletion of Shrine-grinding:
   After Reloading the Script, you will need to activate it again by pressing F1-F5 keys<br>
 ***Press **F9** to **Exit/Close** the script<br>
 
-
 <hr>
 
-## 4. Tools
+## 4. Utilized Tools
 
 Tools that I've used in order to create the scripts:
 - Notepad++ https://notepad-plus-plus.org/downloads/
@@ -153,3 +153,43 @@ Tools that I've used in order to create the scripts:
 - *(deprecated)* AutoHotkey https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-autohotkey
 - *(deprecated)* AutoHotkey Plus (AHK V1) https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-autohotkey-plus
 - *(new)* AHK++ (AutoHotkey Plus Plus) https://marketplace.visualstudio.com/items?itemName=mark-wiemer.vscode-autohotkey-plus-plus
+
+<hr>
+
+## 5. Farming Koins (how-to)
+
+### INFO: "MK11 - How to get 250 000 koins in 30 seconds, best and quickest farming method" *(not mine)* <br> https://youtu.be/vuBfsdKuagE?si=vqExxf53d78cMwPM&t=103
+
+<br>Instructions:
+1. farm until you get good Character Augments *(play Towers of Time/loot chests in The Krypt/use the Shrine)*
+2. from the Main Menu, go to: Kustomize - Characters
+3. choose your favorite MK11 character
+4. customize its gear, by adding these Augments *(the higher the level, the greater the rewards)*
+   - Good Souls
+   - Death Benefit
+   - Spoils of War
+   - Perfect Kombat
+   - Heart and Soul
+   - Dark Magic
+5. now, follow the instructions from [**Farming_Towers**](https://github.com/RomulusMirauta/Mortal-Kombat-11/edit/main/README.md#how-to-use-1)
+6. if you get a Flawless Victory and you/the AI perform(s) a Fatality, you will get ~**250.000 Koins**
+
+<br>
+
+My Koin-farming setup:
+
+<a href="https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/refs/heads/main/Farming_Koins/">
+  <img align="center"
+    src="https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/refs/heads/main/Farming_Koins/"
+    alt="Farming_Koins_Setup" />
+</a>
+
+<br><br>
+
+Proof that it actually works:
+
+<a href="https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/refs/heads/main/Farming_Koins/">
+  <img align="center"
+    src="https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/refs/heads/main/Farming_Koins/"
+    alt="Farming_Koins_Proof" />
+</a>

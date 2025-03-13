@@ -13,7 +13,7 @@ The Main Purpose of this GitHub Repository/Project: <br><br>
 2. [**Farming_Towers _(scripts)_**](https://github.com/RomulusMirauta/Mortal-Kombat-11?tab=readme-ov-file#2-farming_towers)
 3. [**Shrine_Farming _(scripts)_**](https://github.com/RomulusMirauta/Mortal-Kombat-11?tab=readme-ov-file#3-shrine_farmer)
 4. [**Utilized Tools**](https://github.com/RomulusMirauta/Mortal-Kombat-11?tab=readme-ov-file#4-tools)
-5. [**Farming Koins _(how-to)_**](https://github.com/RomulusMirauta/Mortal-Kombat-11?tab=readme-ov-file#5-Farming-Koins)
+5. [**Farming_Koins _(how-to)_**](https://github.com/RomulusMirauta/Mortal-Kombat-11?tab=readme-ov-file#5-Farming-Koins)
 
 
 <br>
@@ -156,7 +156,7 @@ Tools that I've used in order to create the scripts:
 
 <hr>
 
-## 5. Farming Koins (how-to)
+## 5. Farming_Koins (how-to)
 
 ### INFO: "MK11 - How to get 250 000 koins in 30 seconds, best and quickest farming method" *(not mine)* <br> https://youtu.be/vuBfsdKuagE?si=vqExxf53d78cMwPM&t=103
 
@@ -178,9 +178,9 @@ Tools that I've used in order to create the scripts:
 
 My Koin-farming setup:
 
-<a href="https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/refs/heads/main/Farming_Koins/">
+<a href="https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/refs/heads/main/Farming_Koins/MK11-Farming_Koins_Setup.png">
   <img align="center"
-    src="https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/refs/heads/main/Farming_Koins/"
+    src="https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/refs/heads/main/Farming_Koins/MK11-Farming_Koins_Setup.png"
     alt="Farming_Koins_Setup" />
 </a>
 
@@ -188,8 +188,8 @@ My Koin-farming setup:
 
 Proof that it actually works:
 
-<a href="https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/refs/heads/main/Farming_Koins/">
+<a href="https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/refs/heads/main/Farming_Koins/MK11-Farming_Koins_Proof_Cropped.png">
   <img align="center"
-    src="https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/refs/heads/main/Farming_Koins/"
+    src="https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/refs/heads/main/Farming_Koins/MK11-Farming_Koins_Proof_Cropped.png"
     alt="Farming_Koins_Proof" />
 </a>

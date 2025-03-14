@@ -37,8 +37,8 @@ The Main Purpose of this GitHub Repository/Project: <br><br>
 
 *TI = Tutorial Input<br>
 **The number after "TI" indicates the problematic Tutorial Challenge - the first script (MK11-Tutorial_Input-01.exe) is for the following ~impossible Tutorial Challenge: Frame Data - Punishing - challenge no.4 *(the scripts that follow after are for the next ~impossible challenges, in ascending order)*<br>
-***Press **F3** to **Pause** the script<br>
-****Press **F4** to **Exit/Close** the script<br>
+***Press 'F3' to **Pause** the script<br>
+****Press 'F4' to **Exit/Close** the script<br>
 
 <br>Before creating these AHK Scripts, I've tried these, which ultimately failed to solve the encountered issue:
 - utilized a bunch of gaming keyboards - wired (so the input latency would be way lower), with mechanical and hybrid switches, some even with short-stroke keys (to increase the chance of hitting the combo)

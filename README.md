@@ -4,7 +4,7 @@
 <h3>
 The Main Purpose of this GitHub Repository/Project: <br><br>
 
-***Time is the most valuable and important resource - of all.*** <br><br><br>
+***`Time is the most valuable and important resource - of all.`*** <br><br><br>
 </h3>
 
 
@@ -80,7 +80,7 @@ Steam Achievements impacted by Kompletion of Tutorial Challenges:
 
 ## 2. Farming_Towers scripts
 
-### **Purpose:** to simulate a human-like simple input - continuously pressing the "Enter" key *(only when MK11 window is focused)*
+### **Purpose:** to simulate a human-like simple input - continuously pressing the `Enter` key *(only when MK11 window is focused)*
 
 ### **Problem solved:** in Mortal Kombat 11, the resources require a lot of grinding => this will help you automatically farm resources
 
@@ -96,13 +96,13 @@ Steam Achievements impacted by Kompletion of Tower-grinding:
 ### How to use:
 1. download and start the script from here: [MK11-Farming_Towers_Final.exe](https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/main/Farming_Towers/MK11-Farming_Towers_Final.exe)
 2. start Mortal Kombat 11
-3. from the Main Menu, go to: Konquer - Klassic Towers/Towers of Time - choose a Tower (e.g. Endless Tower) - choose any fighter - choose the Fighter to be AI-controlled *(for keyboard: press "A" button)*
-4. Press **F1** in order to **Activate** the script
+3. from the Main Menu, go to: Konquer - Klassic Towers/Towers of Time - choose a Tower (e.g. Endless Tower) - choose any fighter - choose the Fighter to be AI-controlled *(for keyboard: press `A` key)*
+4. Press `F1` in order to **Activate** the script
 5. *watch and enjoy*
 
 *From time to time, check if you lost the fight<br>
-**Press **F3** to **Pause** the script<br>
-***Press **F4** to **Exit/Close** the script<br>
+**Press `F3` to **Pause** the script<br>
+***Press `F4` to **Exit/Close** the script<br>
 
 <hr>
 
@@ -128,17 +128,17 @@ Steam Achievements impacted by Kompletion of Shrine-grinding:
 3. from the Main Menu, go to: Konquer - Krypt
 4. go to the Shrine
 5. activate the script
-   - Press **F1** in order to initiate the spending of **1.000** Koins *(minimum amount)* - mostly for farming: 1x kombat kard
-   - Press **F2** in order to initiate the spending of **10.000** Koins - mostly for farming: 2x kombat kards
-   - Press **F3** in order to initiate the spending of **15.000** Koins - mostly for farming: 1x augment & 1x *%random item%*
-   - Press **F4** in order to initiate the spending of **75.000** Koins - mostly for farming: 2x gears (or 2x augments - very rare occurrence)
-   - Press **F5** in order to initiate the spending of **100.000** Koins *(maximum amount)* - mostly for farming: 1x skin
+   - Press `F1` in order to initiate the spending of **1.000** Koins *(minimum amount)* - mostly for farming: 1x kombat kard
+   - Press `F2` in order to initiate the spending of **10.000** Koins - mostly for farming: 2x kombat kards
+   - Press `F3` in order to initiate the spending of **15.000** Koins - mostly for farming: 1x augment & 1x *%random item%*
+   - Press `F4` in order to initiate the spending of **75.000** Koins - mostly for farming: 2x gears (or 2x augments - very rare occurrence)
+   - Press `F5` in order to initiate the spending of **100.000** Koins *(maximum amount)* - mostly for farming: 1x skin
 7. *observe the wealth disappearing into the Smoke*
 
-*Press **F7** to **Pause** the script<br>
-**Press **F8** to **Reload** the script *(to be used in case of script becoming unresponsive - it can happen after Pausing the script)*<br>
-  After Reloading the Script, you will need to activate it again by pressing F1-F5 keys<br>
-***Press **F9** to **Exit/Close** the script<br>
+*Press `F7` to **Pause** the script<br>
+**Press `F8` to **Reload** the script *(to be used in case of script becoming unresponsive - it can happen after Pausing the script)*<br>
+  After Reloading the Script, you will need to activate it again by pressing `F1`-`F5` keys<br>
+***Press `F9` to **Exit/Close** the script<br>
 
 <hr>
 

@@ -21,7 +21,7 @@ The Main Purpose of this GitHub Repository/Project: <br><br>
 
 ## 1. Tutorial_Input scripts
 
-*STEAM Link: https://store.steampowered.com/app/976310/Mortal_Kombat_11/*
+> STEAM Link: https://store.steampowered.com/app/976310/Mortal_Kombat_11/
 
 ### **Purpose:** to simulate human-like input - that is not recognised by game's engine as being script-generated / is read or recognised by game's engine, being inputed at a ~normal rate
 
@@ -45,9 +45,10 @@ The Main Purpose of this GitHub Repository/Project: <br><br>
 - simulated a controller - through Steam Link Android app - with different and custom key positions *(https://play.google.com/store/apps/details?id=com.valvesoftware.steamlink)*
 - *last step would have been this, but it did not happen...being stubborn by nature and also being reluctant to buying a physical controller due to reading (a lot of) bad reviews, and discussions that I had with controller owners*
 
-### Proof that these scripts actually worked, at least for me: https://steamcommunity.com/id/ILimitlessI/stats/976310/?tab=achievements
+> [!NOTE]
+> ### Proof that these scripts actually worked, at least for me: <br> <br> https://steamcommunity.com/id/ILimitlessI/stats/976310/?tab=achievements
 
-#### ***Reluctant to clicking on links? Here's a scrollshot - as proof:***
+#### ***Reluctant to clicking on links? Here's a scroll shot - as proof:***
 
 <a href="https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/refs/heads/main/Tutorial_Input/MK11_Achievements.png">
   <img align="center"
@@ -59,10 +60,11 @@ The Main Purpose of this GitHub Repository/Project: <br><br>
 **These scripts will help you grind the ***Tutorial-related*** achievements, ultimately adding Mortal Kombat 11 to your Steam's "Perfect Games" list, by collecting all of the achievements** ***(100%, 58 out of 58).***
 <br><br>
 
-Steam Achievements impacted by Kompletion of Tutorial Challenges:
-- Hit The Dojo (Komplete all Basics Tutorials)
-- Ready To Kompete (Komplete all Advanced Tutorials)
-- No Bad Match Ups (Komplete all Strategy Tutorials)
+> [!TIP]
+> Steam Achievements impacted by Kompletion of Tutorial Challenges:
+> - Hit The Dojo (Komplete all Basics Tutorials)
+> - Ready To Kompete (Komplete all Advanced Tutorials)
+> - No Bad Match Ups (Komplete all Strategy Tutorials)
 
 <br>
 
@@ -87,11 +89,12 @@ Steam Achievements impacted by Kompletion of Tutorial Challenges:
 <br>**This script will help you grind the ***Tower-related*** achievements, ultimately adding Mortal Kombat 11 to your Steam's "Perfect Games" list, by collecting all of the achievements** ***(100%, 58 out of 58).***
 <br><br>
 
-Steam Achievements impacted by Kompletion of Tower-grinding:
-- Klassic (Komplete a Novice, Warrior, or Champion Klassic Tower once)
-- I Want It All (Komplete the Novice, Warrior, or Champion Klassic Towers with 10 different characters)
-- Tower Champion (Komplete 125 Towers)
-- Master of Time (Komplete 250 Towers)
+> [!TIP]
+> Steam Achievements impacted by Kompletion of Tower-grinding:
+> - Klassic (Komplete a Novice, Warrior, or Champion Klassic Tower once)
+> - I Want It All (Komplete the Novice, Warrior, or Champion Klassic Towers with 10 different characters)
+> - Tower Champion (Komplete 125 Towers)
+> - Master of Time (Komplete 250 Towers)
 
 ### How to use:
 1. download and start the script from here: [MK11-Farming_Towers_Final.exe](https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/main/Farming_Towers/MK11-Farming_Towers_Final.exe)
@@ -108,7 +111,7 @@ Steam Achievements impacted by Kompletion of Tower-grinding:
 
 ## 3. Shrine_Farming scripts
 
-### INFO: "MK11 - Guide to Shrine Rewards in the Krypt" *(not mine)* <br> https://www.youtube.com/watch?v=ubQo1a_EKz4
+> ### INFO: "MK11 - Guide to Shrine Rewards in the Krypt" *(not mine)* <br> https://www.youtube.com/watch?v=ubQo1a_EKz4
 
 ### **Purpose:** to simulate a human-like input - in order to continuously spend Koins *(key sequence triggers only when MK11 window is focused)*
 
@@ -117,10 +120,11 @@ Steam Achievements impacted by Kompletion of Tower-grinding:
 <br>**This script will help you grind the ***Shrine-related*** and other achievements, ultimately adding Mortal Kombat 11 to your Steam's "Perfect Games" list, by collecting all of the achievements** ***(100%, 58 out of 58).***
 <br><br>
 
-Steam Achievements impacted by Kompletion of Shrine-grinding:
-- Gimme Dat Money (Spend 50,000 koins in the Naknadan shrine)
-- More Power (Use 50 Konsumables)
-- Konsumed (Use 100 consumables)
+> [!TIP]
+> Steam Achievements impacted by Kompletion of Shrine-grinding:
+> - Gimme Dat Money (Spend 50,000 koins in the Naknadan shrine)
+> - More Power (Use 50 Konsumables)
+> - Konsumed (Use 100 consumables)
 
 ### How to use:
 1. download and start the script from here: [MK11-Shrine_Farming_Final.exe](https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/main/Shrine_Farming/MK11-Shrine_Farming_Final.exe)
@@ -158,7 +162,7 @@ Tools that I've used in order to create the scripts:
 
 ## 5. Farming_Koins (how-to)
 
-### INFO: "MK11 - How to get 250 000 koins in 30 seconds, best and quickest farming method" *(not mine)* <br> https://youtu.be/vuBfsdKuagE?si=vqExxf53d78cMwPM&t=103
+> ### INFO: "MK11 - How to get 250 000 koins in 30 seconds, best and quickest farming method" *(not mine)* <br> https://youtu.be/vuBfsdKuagE?si=vqExxf53d78cMwPM&t=103
 
 ### Instructions:
 1. farm until you get good Character Augments *(play Towers of Time/loot chests in The Krypt/use the Shrine)*
@@ -176,7 +180,7 @@ Tools that I've used in order to create the scripts:
 
 <br>
 
-### My Koin-farming setup:
+### My Koin-farming Setup:
 
 <a href="https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/refs/heads/main/Farming_Koins/MK11-Farming_Koins_Setup.png">
   <img align="center"

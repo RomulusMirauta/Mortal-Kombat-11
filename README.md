@@ -1,4 +1,7 @@
-# **Mortal Kombat 11 - AHK Scripts**
+<div align="center">
+  <h1>Mortal Kombat 11 - AHK Scripts</h1>
+</div>
+
 <br>
 
 <h3>
@@ -7,15 +10,13 @@ The Main Purpose of this GitHub Repository/Project: <br><br>
 ***`Time is the most valuable and important resource - of all.`*** <br><br><br>
 </h3>
 
-<br>
-
 <a href="https://store.steampowered.com/app/976310/Mortal_Kombat_11/">
   <img align="center"
     src="https://raw.githubusercontent.com/RomulusMirauta/Mortal-Kombat-11/refs/heads/main/MK11_SplashArt.jpg"
     alt="Mortal_Kombat_11_Splash_Art.jpg" />
 </a>
 
-<br>
+<br><br>
 
 ## Table of Contents
 1. [**Tutorial_Input _(scripts)_**](https://github.com/RomulusMirauta/Mortal-Kombat-11?tab=readme-ov-file#1-tutorial_input-scripts)
